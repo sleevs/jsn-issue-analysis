@@ -1,1 +1,6 @@
-br/com/jsn/App.class
+br\com\jsn\dto\ContributorDto.class
+br\com\jsn\service\Strategy.class
+br\com\jsn\dto\ResponseDto.class
+br\com\jsn\service\Context.class
+br\com\jsn\App.class
+br\com\jsn\dto\IssueDto.class
